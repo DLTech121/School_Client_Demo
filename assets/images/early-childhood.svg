@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-label="Young children learning through play">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4d9b8"/><stop offset="1" stop-color="#d5e7df"/></linearGradient></defs>
+<rect width="1000" height="650" fill="url(#bg)"/>
+<rect x="70" y="65" width="860" height="420" rx="12" fill="#fff" opacity=".35"/>
+<rect x="110" y="105" width="780" height="300" fill="#8fb8c6" opacity=".75"/>
+<path d="M110 320H890V405H110Z" fill="#d9c9a8"/>
+<g stroke="#fff" stroke-width="9" opacity=".75"><path d="M300 105V405M500 105V405M700 105V405"/><path d="M110 250H890"/></g>
+<g><circle cx="350" cy="390" r="46" fill="#a56a4b"/><path d="M305 380q45-85 90 0" fill="#28211e"/><path d="M295 445q55-40 110 0l25 130H270Z" fill="#e3ad59"/><circle cx="630" cy="390" r="46" fill="#8d5942"/><path d="M585 380q45-85 90 0" fill="#28211e"/><path d="M575 445q55-40 110 0l25 130H550Z" fill="#426c88"/></g><rect x="430" y="455" width="140" height="70" rx="8" fill="#fff"/><circle cx="470" cy="475" r="13" fill="#d5a94f"/><rect x="500" y="465" width="45" height="10" fill="#7da69a"/>
+<path d="M0 570Q250 520 500 570T1000 555V650H0Z" fill="#315d4c" opacity=".8"/>
+</svg>

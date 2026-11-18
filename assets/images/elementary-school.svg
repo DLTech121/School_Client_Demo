@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-label="Elementary students learning together">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d8e6e4"/><stop offset="1" stop-color="#f3dfc2"/></linearGradient></defs>
+<rect width="1000" height="650" fill="url(#bg)"/>
+<rect x="70" y="65" width="860" height="420" rx="12" fill="#fff" opacity=".35"/>
+<rect x="110" y="105" width="780" height="300" fill="#8fb8c6" opacity=".75"/>
+<path d="M110 320H890V405H110Z" fill="#d9c9a8"/>
+<g stroke="#fff" stroke-width="9" opacity=".75"><path d="M300 105V405M500 105V405M700 105V405"/><path d="M110 250H890"/></g>
+<g>
+<circle cx="280" cy="425" r="48" fill="#8e5a42"/><path d="M235 420q45-90 90 0" fill="#222027"/><path d="M225 485q55-42 110 0l28 115H197Z" fill="#f4f1e8"/>
+<circle cx="500" cy="405" r="55" fill="#b87956"/><path d="M450 395q50-95 100 0" fill="#27201d"/><path d="M435 475q65-48 130 0l30 125H405Z" fill="#1b3b5a"/>
+<circle cx="720" cy="430" r="47" fill="#a36b4c"/><path d="M675 420q45-85 90 0" fill="#27211f"/><path d="M665 485q55-42 110 0l28 115H637Z" fill="#e6b85f"/>
+</g><rect x="360" y="160" width="280" height="80" rx="8" fill="#fff"/><path d="M390 190h220M390 215h160" stroke="#d5a94f" stroke-width="8"/>
+<path d="M0 570Q250 520 500 570T1000 555V650H0Z" fill="#315d4c" opacity=".8"/>
+</svg>

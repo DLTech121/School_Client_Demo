@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8fb2c8"/><stop offset="1" stop-color="#e9d9b7"/></linearGradient><linearGradient id="glass"><stop stop-color="#8db3c6"/><stop offset="1" stop-color="#315a78"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#sky)"/><circle cx="1300" cy="155" r="95" fill="#f6d99a" opacity=".8"/>
+<path d="M0 600L1600 560V900H0Z" fill="#6f9a69"/><path d="M0 680L1600 630V900H0Z" fill="#3f7555"/>
+<rect x="780" y="180" width="650" height="440" fill="#e9e5d9"/><rect x="830" y="230" width="550" height="300" fill="url(#glass)"/>
+<g stroke="#dce8e8" stroke-width="10"><path d="M960 230V530M1100 230V530M1240 230V530"/><path d="M830 360H1380M830 450H1380"/></g>
+<path d="M740 620L1490 620L1550 680H680Z" fill="#d2c7b1"/>
+<g fill="#244b3f"><circle cx="170" cy="480" r="120"/><circle cx="300" cy="520" r="90"/><circle cx="1490" cy="440" r="150"/></g><g fill="#39704f"><circle cx="180" cy="390" r="95"/><circle cx="310" cy="440" r="90"/><circle cx="1480" cy="330" r="125"/></g>
+<!-- stylised diverse student group -->
+<g><circle cx="470" cy="540" r="48" fill="#8b573c"/><path d="M425 535q45-100 90 0" fill="#182c3e"/><path d="M410 600q60-45 120 0l30 190H380Z" fill="#f5f5ef"/><path d="M410 790h150l-10 110H420Z" fill="#1c3553"/>
+<circle cx="630" cy="515" r="52" fill="#b97851"/><path d="M580 505q50-90 100 0" fill="#29201e"/><path d="M565 585q65-50 130 0l25 205H540Z" fill="#1e3b5b"/><path d="M555 790h155l-5 110H565Z" fill="#e9e8df"/>
+<circle cx="785" cy="555" r="44" fill="#9c6349"/><path d="M745 540q40-75 80 0" fill="#241c1a"/><path d="M730 610q55-45 110 0l22 180H710Z" fill="#f4f2e9"/><path d="M720 790h140l-8 110H730Z" fill="#203c5b"/></g>
+<g fill="#f2c56d"><circle cx="460" cy="538" r="5"/><circle cx="620" cy="513" r="5"/><circle cx="780" cy="552" r="5"/></g>
+<path d="M0 820Q400 770 800 830T1600 800V900H0Z" fill="#315f48" opacity=".7"/>
+</svg>
